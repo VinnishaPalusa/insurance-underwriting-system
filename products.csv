@@ -1,4 +1,0 @@
-product_id,product_name,base_rate,min_coverage,max_coverage,min_applicant_age,max_asset_age,active
-PRD-MOTOR,Motor Insurance,0.01,50000.0,5000000.0,18,30,1
-PRD-HOME,Home Insurance,0.003,100000.0,25000000.0,18,50,1
-PRD-COMM,Commercial Property,0.006,250000.0,100000000.0,21,65,1

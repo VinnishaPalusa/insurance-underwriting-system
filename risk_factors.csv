@@ -1,4 +1,0 @@
-risk_factor_id,factor_name,description,factor_value,effective_from,effective_to
-RSK-LOW,Low Risk,Low risk multiplier,1.0,2026-01-01,
-RSK-MED,Medium Risk,Medium risk multiplier,1.2,2026-01-01,
-RSK-HIGH,High Risk,High risk multiplier,1.8,2026-01-01,

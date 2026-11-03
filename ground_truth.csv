@@ -1,6 +1,0 @@
-issue_id,issue_type,record_id,severity,expected_rule
-ANOM-POLICY-001,POLICY_ISSUED_WITHOUT_ACCEPTANCE,QTE-2026-000002,CRITICAL,Policy must not be issued without acceptance and payment.
-ANOM-PREMIUM-001,PREMIUM_OUTSIDE_FORMULA,QTE-2026-000002,HIGH,premium_amount must equal calculated_premium under RATE-1.0.
-ANOM-ENDORSEMENT-001,ENDORSEMENT_EXCEEDS_PRODUCT_LIMIT,POL-2026-000001,HIGH,New coverage exceeds the product maximum limit.
-ANOM-RENEWAL-001,RENEWAL_FOR_CANCELLED_POLICY,POL-2026-000029,HIGH,Cancelled policies must not receive renewal offers.
-ANOM-OVERLAP-001,OVERLAPPING_POLICY_PERIOD,POL-2026-000002,MEDIUM,Overlapping policy periods for the same asset require a permitted reason.
